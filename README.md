@@ -1,4 +1,4 @@
-### Hi there 👋 he is my repository
+### Hi there 👋 it is my repository
 
 <!--
 **07UrielOlvera/07UrielOlvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
